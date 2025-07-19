@@ -1,0 +1,6 @@
+streamlit
+ibm-watsonx-ai
+PyMuPDF
+pandas
+pyarrow==15.0.2
+streamlit-option-menu
